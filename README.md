@@ -1,2 +1,2 @@
-# -Get-Started-with-Apex
+# ApexProjectForGit
 Used to learn Git and Apex
